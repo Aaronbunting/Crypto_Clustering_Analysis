@@ -52,11 +52,10 @@ Visualize and Compare the Results
 # Conclusion
 Based on the analysis and visualization of the cryptocurrency clustering using K-means and Principal Component Analysis (PCA), the following conclusions can be drawn:
 
-* The best value for k using the elbow method with the original data is [best k value].
-* Clustering the cryptocurrencies with K-means using the original data results in [number of clusters] clusters.
-* Applying Principal Component Analysis (PCA) and reducing the features to three principal components explains [total explained variance] of the data.
-* The best value for k using the PCA data is [best k value]. It differs from the best value obtained using the original data.
-* Clustering the cryptocurrencies with K-means using the PCA data yields [number of clusters] clusters.
+* The best value for k using the elbow method with the original data is 4.
+* Clustering the cryptocurrencies with K-means using the original data results in 3 clusters.
+* The best value for k using the PCA data is 4 . It is the similar from the best value obtained using the original data.
+* Clustering the cryptocurrencies with K-means using the PCA data yields 3 clusters.
 * Visual analysis shows that using fewer features with PCA affects the clustering results, leading to potential changes in cluster assignments.
 
 For detailed analysis, code implementation, and visualizations, please refer to the [crypto_investments.ipynb](crypto_investments.ipynb) Jupyter notebook for this project.
