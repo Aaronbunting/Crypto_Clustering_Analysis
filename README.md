@@ -14,10 +14,10 @@ As an advisor in one of the top five financial advisory firms in the world, the 
 # Files
 The following files are required for this project:
 
-crypto_market_data.csv:[crypto_market_data.csv](crypto_market_data.csv) Contains the price change data of cryptocurrencies in different periods.
+[crypto_market_data.csv](crypto_market_data.csv) Contains the price change data of cryptocurrencies in different periods.
 
 # Instructions
-The high-level steps for this challenge are as follows:
+The steps this challenge are as follows:
 
 * Import the data and prepare it for analysis.
 * Find the best value for k by using the original data.
