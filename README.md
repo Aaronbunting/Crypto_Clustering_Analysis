@@ -59,5 +59,5 @@ Based on the analysis and visualization of the cryptocurrency clustering using K
 * Clustering the cryptocurrencies with K-means using the PCA data yields [number of clusters] clusters.
 * Visual analysis shows that using fewer features with PCA affects the clustering results, leading to potential changes in cluster assignments.
 
-For detailed analysis, code implementation, and visualizations, please refer to the [crypto_investments.ipynb](Crypto_investments.ipynb) Jupyter notebook for this project.
+For detailed analysis, code implementation, and visualizations, please refer to the [crypto_investments.ipynb](crypto_investments.ipynb) Jupyter notebook for this project.
 
