@@ -14,7 +14,7 @@ As an advisor in one of the top five financial advisory firms in the world, the 
 # Files
 The following files are required for this project:
 
-[crypto_market_data.csv](crypto_market_data.csv) Contains the price change data of cryptocurrencies in different periods.
+[crypto_market_data.csv](crypto_market_data.csv): Contains the price change data of cryptocurrencies in different periods.
 
 # Instructions
 The steps this challenge are as follows:
@@ -59,5 +59,5 @@ Based on the analysis and visualization of the cryptocurrency clustering using K
 * Clustering the cryptocurrencies with K-means using the PCA data yields [number of clusters] clusters.
 * Visual analysis shows that using fewer features with PCA affects the clustering results, leading to potential changes in cluster assignments.
 
-For detailed analysis, code implementation, and visualizations, please refer to the Crypto_investments.ipynb Jupyter notebook for this project.
+For detailed analysis, code implementation, and visualizations, please refer to the [crypto_investments.ipynb](Crypto_investments.ipynb) Jupyter notebook for this project.
 
